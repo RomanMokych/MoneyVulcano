@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  GoalViewController.swift
 //  MoneyVulcano
 //
 //  Created by Roman Mokych on 10/3/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class GoalViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
